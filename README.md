@@ -10,7 +10,7 @@
 npx skills add Orbit-Labs-AI/flow-zh
 ```
 
-手动安装到 Claude Code：
+手动安装到 Agent：
 
 ```bash
 git clone https://github.com/Orbit-Labs-AI/flow-zh.git ~/.claude/skills/flow-zh
