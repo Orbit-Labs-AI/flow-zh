@@ -4,16 +4,16 @@
 
 ## 怎么用
 
-一条命令安装（Claude Code、Codex、Cursor 等）：
+把下面这句话发给你的 Agent：
+
+```text
+请你载入 https://github.com/Orbit-Labs-AI/flow-zh 的流水句 Skill。
+```
+
+也可以用一条命令安装（Claude Code、Codex、Cursor 等）：
 
 ```bash
 npx skills add Orbit-Labs-AI/flow-zh
-```
-
-手动安装到 Agent：
-
-```bash
-git clone https://github.com/Orbit-Labs-AI/flow-zh.git ~/.claude/skills/flow-zh
 ```
 
 不安装也能用：把 [SKILL.md](SKILL.md) 里的正文整段贴进对话或系统提示词，再让模型写作或改写。
