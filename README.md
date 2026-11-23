@@ -17,3 +17,5 @@ npx skills add Orbit-Labs-AI/flow-zh
 ```
 
 不安装也能用：把 [SKILL.md](SKILL.md) 里的正文整段贴进对话或系统提示词，再让模型写作或改写。
+
+测评所用 Skill 地址为 [https://github.com/Orbit-Labs-AI/speak-human-bench](https://github.com/Orbit-Labs-AI/speak-human-bench)。
